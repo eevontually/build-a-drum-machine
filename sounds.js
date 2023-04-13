@@ -1,4 +1,4 @@
-const sounds = [
+const SOUNDS = [
 {
   key: "Q",
   sound: "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3"
